@@ -15,7 +15,7 @@ The approach is multi faceted. First use the the emoji and word classification d
 
 This classification was used to create a spending behavior profile for each user across a period of 12 months of their lifetime.
 
-Secondly, using social netowrk analysis to capture network metrics for each user, like:
+Secondly, using social network analysis to capture network metrics for each user, like:
 1. Number of Friends
 2. Number of friends of friends
 3. Clustering coefficient ([Clustering Coefficient wiki](https://en.wikipedia.org/wiki/Clustering_coefficient))
