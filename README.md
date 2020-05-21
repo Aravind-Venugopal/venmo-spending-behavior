@@ -1,6 +1,9 @@
 # venmo-spending-behavior
-Analyzing user spending behavior on Venmo (Spark MLLib)
 ![spark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/388px-Apache_Spark_logo.svg.png)
+
+Analyzing user spending behavior on Venmo (Spark MLLib)
+
+--------------------------------
 
 Using user transaction data to predict future transactions.
 
