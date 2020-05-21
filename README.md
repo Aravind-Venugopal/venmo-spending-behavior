@@ -1,12 +1,12 @@
 # venmo-spending-behavior
 Analyzing user spending behavior on Venmo (Spark MLLib)
-!(spark)[https://spark.apache.org/images/spark-logo.eps]
+![spark](https://spark.apache.org/images/spark-logo.eps)
 
 Using user transaction data to predict future transactions.
 
 The data includes:
 
-!(data)[data.png]
+![data](data.png)
 
 The approach is multi faceted. First use the the emoji and word classification dictionary([emojipedia](https://emojipedia.org/) to classify user transactions into categories(eg. Food, Travel, Event).
 
